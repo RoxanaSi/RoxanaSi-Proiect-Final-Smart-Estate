@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Contact Form</title>
+    <link rel="stylesheet" type="text/css" href="ContactForm.css">    
+    <script src="ContactForm.js" type="text/javascript"></script>
+</head>
+
+<body >
+    <div class="col"> 
+        <form class="chenar col" onsubmit="validare(event);" >  
+            <h1 class="firstHeader ">Contact us!</h1>
+            <h3 class="class1 hidden">Thank you for contacting us! </h3> 
+            <div class="primaValidare col" >
+                <p> <input name="FirstName" onfocus="this.value=''" placeholder="First name" autocomplete="off">            
+                <br>
+                <input name="LastName" onfocus="this.value=''" placeholder="Last name" autocomplete="off">
+                <br>
+                <input name="Telephone" onfocus="this.value=''" placeholder="Telephone" autocomplete="off">
+                <br>
+                <input name="Email" onfocus="this.value=''" placeholder="Email" autocomplete="off"></p>
+            </div>             
+            <div>
+                <input class="mesaj col" type="text" onfocus="this.value=''" placeholder="Your message here" autocomplete="off"/>        
+            </div>
+            <input class="verde col" type="submit" />       
+        </form>
+
+        <div class="completeInfo cache"> Please fill in all the fields in this form! </div>
+
+        <button id="backButton" type="button" onclick="location.href='Smart Estate.html' ">Back to main page</button> 
+
+    </div> 
+</body>
+</html>

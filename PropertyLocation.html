@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Property Location on Map</title>
+	<link rel="stylesheet" type="text/css" href="PropertyLocation.css">   
+  <script src="PropertyLocation.js" type="text/javascript"></script> 
+</head>
+
+<body onload="getList();" ontouchstart="showCoordinates(event)" ontouchmove="showCoordinates(event)" >
+  <h3>Property location</h3>
+  <div id="map"></div>
+  <script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB6jfwZ-smYn9AvX1EG29HOaWkPw5lLihk&callback=initMap">
+  </script>
+</body>
+</html>
+
+
+  

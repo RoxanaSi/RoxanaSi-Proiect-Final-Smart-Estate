@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin</title>
+    <link rel="stylesheet" type="text/css" href="Admin.css">    
+    <script src="Admin.js" type="text/javascript"></script>
+    
+</head>
+    <body onload="getList();"> 
+        <div id="backToHomePage">			
+            <a href="Smart Estate.html"><img src="Logo.jpg" style="width:80px; height:30px;">Home page!</a>
+        </div>	
+                
+        <p id="title">Admin page<input id="buttonAdd" type="button" value="Add property" onclick="location.href='AdminAddProperty.html'"></p> 
+        
+        <div class="toast hidden">The property is removed from the database!</div> 
+        <table class="displayAdmin col">
+            <thead class="displayTHead">
+                <tr class="displayTable"> 
+                    <th>Image</th> 
+                    <th>Type</th>
+                    <th>Surface</th>
+                    <th>Rooms</th>
+                    <th>Price</th>
+                    <th>Similar properties</th>
+                    <th>Property location</th>                
+                </tr>
+            </thead>
+            <tbody>				
+            </tbody>   
+        </table> 
+    </body>
+  
+</html>

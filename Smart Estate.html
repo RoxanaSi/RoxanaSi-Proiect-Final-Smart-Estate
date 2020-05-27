@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Estate</title>
+    <link rel="stylesheet" type="text/css" href="SmartEstate.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="smartEstate.js" type="text/javascript"></script>
+</head>
+
+<body class="bcolor" onload="getList();">
+    <h1> 
+      <img id="photoLogo" src="Logo.jpg" alt="Smart Estates"> 
+        <span id="colorLogo">Smart Estates</span>
+   
+      <div class="selectionAndAdmin">
+        <a href="MyList.html"><img src="choices.jpg" alt="Your selection" style="width:45px; height:45px;">Your Selection</a>
+        <a href="Admin.html"><img src="locker.png" alt="Admin" style="width:45px; height:45px;">Admin</a>
+      </div>
+
+    </h1>
+
+    <h2 class="col">   
+        <div class="myLinks"> 
+            <a href="Company.html" style="font-size:18px">COMPANY</a>
+
+            <div class="dropdown">
+                <button class="dropbtn">PROPERTY TYPE</button>
+                <div class="dropdown-content">
+                  <a href="#" id="typeOne" onclick="showOptions('type','Apartment','Apartment');">Apartment</a>
+                  <a href="#" id="typeTwo" onclick="showOptions('type','House','House');">House</a>                  
+                </div>
+              </div>   
+
+            <div class="dropdown">
+                <button class="dropbtn">SURFACE AREA</button>
+                <div class="dropdown-content">
+                  <a href="#" id="surfaceOne" onclick="showOptions('surface',0,55);">max 55m2</a>
+                  <a href="#" id="surfaceTwo" onclick="showOptions('surface',55,80);">max 80m2</a>
+                  <a href="#" id="surfaceThree" onclick="showOptions('surface',80,100);">max 100m2</a>
+                  <a href="#" id="surfaceFour" onclick="showOptions('surface',100,250);">max 250m2</a>                
+                </div>
+              </div>
+
+            <div class="dropdown">
+                <button class="dropbtn">ROOMS</button>
+                <div class="dropdown-content">
+                  <a href="#" onclick="showOptions('rooms',1,1);">Studio</a>
+                  <a href="#" onclick="showOptions('rooms',2,2);">2 rooms</a>
+                  <a href="#" onclick="showOptions('rooms',3,3);">3 rooms</a>
+                  <a href="#" onclick="showOptions('rooms',4,4);">4 rooms</a>                
+                </div>
+              </div>
+
+            <div class="dropdown">
+                <button class="dropbtn">PRICE</button>
+                <div class="dropdown-content">
+                  <a href="#" onclick="showOptions('price',0,60000);">max 60000 EUR</a>
+                  <a href="#" onclick="showOptions('price',61000,80000);">max 80000 EUR</a>
+                  <a href="#" onclick="showOptions('price',81000,110000);">max 110000 EUR</a>
+                  <a href="#" onclick="showOptions('price',111000,250000);">max 250000 EUR</a>                
+                </div>
+              </div>  
+            <a href="PropertyLocation.html" style="font-size:18px">PROPERTY LOCATION</a>        
+           
+            </div>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+              <i class="fa fa-bars"></i>   
+    </h2 >
+    
+    <div class="one col" > 
+      <div class="loader" onload="showMain();">        
+    </div>  
+
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+     
+    <footer class="footerCls">
+      <p id="footerLook">Posted by: Smart Estates <br>
+        Smart Cities Contact: <a href="mailto:smartstate@smartcities.com" style= "color:aliceblue">smartestate@smartcities.com</a></br></p>        
+    </footer>
+  
+  </body>
+</html>

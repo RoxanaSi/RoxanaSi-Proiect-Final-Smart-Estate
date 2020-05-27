@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Edit Property</title>
+    <link rel="stylesheet" type="text/css" href="AdminEditProperty.css">
+    <script src="AdminEditProperty.js" type="text/javascript"></script>
+
+</head>
+<body onload="getList();">
+
+    <div class="bg">  
+        <div class="lockerAdmin">
+            <a href="Admin.html"><img src="locker.png" alt="Admin" style="width:60px; height:40px;"> <span style="color:black">Admin page!</span></a>
+          </div>       
+		<div class="editDisplay col-xs-12 col-sm-8 col-lg-4"> 
+			<p id="displayTitle">Update property's details </p>
+			<form autocomplete="off">        
+				<label>Image: <input type="text" name="image" /></label> <br/>
+				<label>Type: <input type="text" name="type"/></label> <br/>
+				<label>Surface: <input type="text" name="surface"/></label> <br/>
+				<label>Rooms:<input type="text" name="rooms"/></label> <br/>
+				<label>Price: <input type="text" name="price"/></label> <br/>
+				<label>Similar properties: <input type="text" name="similarProperties"/></label> <br/>
+				<label>Property location: <input type="text" name="propertyLocation"/></label> <br/>  
+				<br>
+				<input id="btn" type=button value="Update" onclick="updateDatabase();">                   
+			</form>
+        </div>
+        <div class="toast hidden">This property's details will be updated in the database!</div> 
+    </div>    
+    
+</body>
+</html>

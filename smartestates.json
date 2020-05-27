@@ -1,0 +1,123 @@
+[{
+		"image": ["https://q-xx.bstatic.com/xdata/images/hotel/max500/149084355.jpg?k=669e2428e055cc32eb7541ac53ee8f3a9c412bc5ad9e2c856f3ed58c79371dfa&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/160758017.jpg?k=56fcd96dccca954dbdfa0d707b6462b6a5985b827fc8e7b4579fef0647898e54&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/135698682.jpg?k=d634c25ac2f472a1a94e51020d41ea03ea080cdffb384df642510e71736c751e&o="
+		],
+		"type":"House",
+		"rooms": "4",
+		"surface": "155",
+		"price": "249999",
+		"similarProperties": "5",
+		"propertyLocation": "43.704176, 7.312004"
+	},
+	{
+		"image": ["https://q-xx.bstatic.com/xdata/images/hotel/max500/160758017.jpg?k=56fcd96dccca954dbdfa0d707b6462b6a5985b827fc8e7b4579fef0647898e54&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/149084355.jpg?k=669e2428e055cc32eb7541ac53ee8f3a9c412bc5ad9e2c856f3ed58c79371dfa&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/135698682.jpg?k=d634c25ac2f472a1a94e51020d41ea03ea080cdffb384df642510e71736c751e&o="
+		],
+		"type":"Apartment",
+		"rooms": "3",
+		"surface": "126",
+		"price": "249999",
+		"similarProperties": "3",
+		"propertyLocation": "43.695799, 7.332333"
+	},
+	{
+		"image": ["https://q-xx.bstatic.com/xdata/images/hotel/max500/135698682.jpg?k=d634c25ac2f472a1a94e51020d41ea03ea080cdffb384df642510e71736c751e&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/149084355.jpg?k=669e2428e055cc32eb7541ac53ee8f3a9c412bc5ad9e2c856f3ed58c79371dfa&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/160758017.jpg?k=56fcd96dccca954dbdfa0d707b6462b6a5985b827fc8e7b4579fef0647898e54&o="
+		],
+		"type":"House",
+		"rooms": "1",
+		"surface": "35",
+		"price": "45000",
+		"similarProperties": "7",
+		"propertyLocation": "43.703153, 7.333921"
+	},
+	{
+		"image": ["https://q-xx.bstatic.com/xdata/images/hotel/max500/149084355.jpg?k=669e2428e055cc32eb7541ac53ee8f3a9c412bc5ad9e2c856f3ed58c79371dfa&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/160758017.jpg?k=56fcd96dccca954dbdfa0d707b6462b6a5985b827fc8e7b4579fef0647898e54&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/135698682.jpg?k=d634c25ac2f472a1a94e51020d41ea03ea080cdffb384df642510e71736c751e&o="
+		],
+		"type":"House",
+		"rooms": "2",
+		"surface": "60",
+		"price": "180000",
+		"similarProperties": "4",
+		"propertyLocation": "43.705418, 7.335541"
+	},
+	{
+		"image": ["https://q-xx.bstatic.com/xdata/images/hotel/max500/160758017.jpg?k=56fcd96dccca954dbdfa0d707b6462b6a5985b827fc8e7b4579fef0647898e54&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/149084355.jpg?k=669e2428e055cc32eb7541ac53ee8f3a9c412bc5ad9e2c856f3ed58c79371dfa&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/135698682.jpg?k=d634c25ac2f472a1a94e51020d41ea03ea080cdffb384df642510e71736c751e&o="
+		],
+		"type":"House",
+		"rooms": "3",
+		"surface": "85",
+		"price": "125000",
+		"similarProperties": "1",
+		"propertyLocation": "43.701579, 7.329715"
+	},
+	{
+		"image": ["https://q-xx.bstatic.com/xdata/images/hotel/max500/135698682.jpg?k=d634c25ac2f472a1a94e51020d41ea03ea080cdffb384df642510e71736c751e&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/149084355.jpg?k=669e2428e055cc32eb7541ac53ee8f3a9c412bc5ad9e2c856f3ed58c79371dfa&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/160758017.jpg?k=56fcd96dccca954dbdfa0d707b6462b6a5985b827fc8e7b4579fef0647898e54&o="
+		],
+		"type":"Apartment",
+		"rooms": "2",
+		"surface": "80",
+		"price": "197000",
+		"similarProperties": "9",
+		"propertyLocation": "43.703847, 7.312201"
+	},
+	{
+		"image": ["https://q-xx.bstatic.com/xdata/images/hotel/max500/149084355.jpg?k=669e2428e055cc32eb7541ac53ee8f3a9c412bc5ad9e2c856f3ed58c79371dfa&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/160758017.jpg?k=56fcd96dccca954dbdfa0d707b6462b6a5985b827fc8e7b4579fef0647898e54&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/135698682.jpg?k=d634c25ac2f472a1a94e51020d41ea03ea080cdffb384df642510e71736c751e&o="
+		],
+		"type":"Apartment",
+		"rooms": "1",
+		"surface": "39",
+		"price": "25000",
+		"similarProperties": "5",
+		"propertyLocation": "43.694214, 7.257038"
+	},
+		{
+		"image": ["https://q-xx.bstatic.com/xdata/images/hotel/max500/160758017.jpg?k=56fcd96dccca954dbdfa0d707b6462b6a5985b827fc8e7b4579fef0647898e54&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/135698682.jpg?k=d634c25ac2f472a1a94e51020d41ea03ea080cdffb384df642510e71736c751e&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/149084355.jpg?k=669e2428e055cc32eb7541ac53ee8f3a9c412bc5ad9e2c856f3ed58c79371dfa&o="
+			
+		],
+		"type":"Apartment",
+		"rooms": "3",
+		"surface": "78",
+		"price": "75000",
+		"similarProperties": "5",
+		"propertyLocation": "43.694423, 7.258207"
+	},
+		{
+		"image": ["https://q-xx.bstatic.com/xdata/images/hotel/max500/135698682.jpg?k=d634c25ac2f472a1a94e51020d41ea03ea080cdffb384df642510e71736c751e&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/149084355.jpg?k=669e2428e055cc32eb7541ac53ee8f3a9c412bc5ad9e2c856f3ed58c79371dfa&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/160758017.jpg?k=56fcd96dccca954dbdfa0d707b6462b6a5985b827fc8e7b4579fef0647898e54&o="
+		],
+		"type":"Apartment",
+		"rooms": "2",
+		"surface": "90",
+		"price": "97000",
+		"similarProperties": "1",
+		"propertyLocation": "43.673064, 7.194452"
+	},
+		{
+		"image": ["https://q-xx.bstatic.com/xdata/images/hotel/max500/160758017.jpg?k=56fcd96dccca954dbdfa0d707b6462b6a5985b827fc8e7b4579fef0647898e54&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/135698682.jpg?k=d634c25ac2f472a1a94e51020d41ea03ea080cdffb384df642510e71736c751e&o=",
+			"https://q-xx.bstatic.com/xdata/images/hotel/max500/149084355.jpg?k=669e2428e055cc32eb7541ac53ee8f3a9c412bc5ad9e2c856f3ed58c79371dfa&o="
+			
+		],
+		"type":"House",
+		"rooms": "4",
+		"surface": "230",
+		"price": "115000",
+		"similarProperties": "2",
+		"propertyLocation": "43.699721, 7.265835"
+	}
+]

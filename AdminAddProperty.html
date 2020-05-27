@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Add Property</title> 
+    <link rel="stylesheet" type="text/css" href="AdminAddProperty.css">    
+    <script src="AdminAddProperty.js" type="text/javascript"></script>   
+</head>
+
+<body class="col-xl-12">
+    <div class="lockerAdmin">
+        <a href="Admin.html"><img src="locker.png" alt="Admin" style="width:50px; height:40px;"> <span style="color:white">Admin page!</span></a>
+    </div>
+   
+    <div class="addPage col-xs-12 col-sm-6 col-lg-3 col-xl-1"> 
+        <p id="displayPageName">Add new property</p>
+        <form class="displayForm" autocomplete="off">        
+            <label>Image: <input type="text" name="image" /></label> <br/>
+            <label>Type: <input type="text" name="type"/></label> <br/>
+            <label>Surface: <input type="text" name="surface"/></label> <br/>
+            <label>Rooms:<input type="text" name="rooms"/></label> <br/>
+            <label>Price: <input type="text" name="price"/></label> <br/>
+            <label>Similar properties: <input type="text" name="similarProperties"/></label> <br/>
+            <label>Property location: <input type="text" name="propertyLocation"/></label> <br/>
+            <input type="button" id='button' value="Add property" onclick="add(event);">           
+        </form>
+        <p class="completeInfo cache"> Entry not valid! Fill in all fields! </p>
+        <div class="toast hidden">Property added to database!</div>   
+    </div>  
+</body>
+</html>
