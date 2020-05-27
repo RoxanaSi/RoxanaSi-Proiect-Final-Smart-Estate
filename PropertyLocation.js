@@ -98,7 +98,7 @@ function initMap() {
         position: property9,
         map: map,
         title: 'Property9',
-        url: "file:///C:/Users/roxan/Desktop/Scoala%20IT/II.%20JavaScript/Proiect%20final/DetailsSmartEstate.html?id=9"
+        url: "https://roxanasi.github.io/RoxanaSi-Proiect-Final-Smart-Estate/DetailsSmartEstate.html?id=9"
         });
         google.maps.event.addListener(markerproperty9, 'click', function () {
         window.location = markerproperty9.url;	}); 
