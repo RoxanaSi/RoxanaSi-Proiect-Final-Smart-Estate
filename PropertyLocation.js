@@ -10,7 +10,7 @@ function initMap() {
         position: property1,
         map: map,
         title: 'Property1',
-        url: "file:///C:/Users/roxan/Desktop/Scoala%20IT/II.%20JavaScript/Proiect%20final/DetailsSmartEstate.html?id=0"
+        url: "https://roxanasi.github.io/RoxanaSi-Proiect-Final-Smart-Estate/DetailsSmartEstate.html?id=0"
         });
         google.maps.event.addListener(markerproperty1, 'click', function () {
         window.location = markerproperty1.url;	
@@ -21,7 +21,7 @@ function initMap() {
         position: property2,
         map: map,
         title: 'Property2',
-        url: "file:///C:/Users/roxan/Desktop/Scoala%20IT/II.%20JavaScript/Proiect%20final/DetailsSmartEstate.html?id=1"
+        url: "https://roxanasi.github.io/RoxanaSi-Proiect-Final-Smart-Estate/DetailsSmartEstate.html?id=1"
         });
         google.maps.event.addListener(markerproperty2, 'click', function () {
         window.location = markerproperty2.url;	
@@ -32,7 +32,7 @@ function initMap() {
         position: property3,
         map: map,
         title: 'Property3',
-        url: "file:///C:/Users/roxan/Desktop/Scoala%20IT/II.%20JavaScript/Proiect%20final/DetailsSmartEstate.html?id=2"
+        url: "https://roxanasi.github.io/RoxanaSi-Proiect-Final-Smart-Estate/DetailsSmartEstate.html?id=2"
         });
         google.maps.event.addListener(markerproperty3, 'click', function () {
         window.location = markerproperty3.url;	
@@ -43,7 +43,7 @@ function initMap() {
         position: property4,
         map: map,
         title: 'Property4',
-        url: "file:///C:/Users/roxan/Desktop/Scoala%20IT/II.%20JavaScript/Proiect%20final/DetailsSmartEstate.html?id=3"
+        url: "https://roxanasi.github.io/RoxanaSi-Proiect-Final-Smart-Estate/DetailsSmartEstate.html?id=3"
         });
         google.maps.event.addListener(markerproperty4, 'click', function () {
         window.location = markerproperty4.url;	
@@ -54,7 +54,7 @@ function initMap() {
         position: property5,
         map: map,
         title: 'Property5',
-        url: "file:///C:/Users/roxan/Desktop/Scoala%20IT/II.%20JavaScript/Proiect%20final/DetailsSmartEstate.html?id=4"
+        url: "https://roxanasi.github.io/RoxanaSi-Proiect-Final-Smart-Estate/DetailsSmartEstate.html?id=4"
         });
         google.maps.event.addListener(markerproperty5, 'click', function () {
         window.location = markerproperty5.url;	
@@ -65,7 +65,7 @@ function initMap() {
         position: property6,
         map: map,
         title: 'Property6',
-        url: "file:///C:/Users/roxan/Desktop/Scoala%20IT/II.%20JavaScript/Proiect%20final/DetailsSmartEstate.html?id=5"
+        url: "https://roxanasi.github.io/RoxanaSi-Proiect-Final-Smart-Estate/DetailsSmartEstate.html?id=5"
         });
         google.maps.event.addListener(markerproperty6, 'click', function () {
         window.location = markerproperty6.url;	
@@ -76,7 +76,7 @@ function initMap() {
         position: property7,
         map: map,
         title: 'Property7',
-        url: "file:///C:/Users/roxan/Desktop/Scoala%20IT/II.%20JavaScript/Proiect%20final/DetailsSmartEstate.html?id=6"
+        url: "https://roxanasi.github.io/RoxanaSi-Proiect-Final-Smart-Estate/DetailsSmartEstate.html?id=6"
         });
         google.maps.event.addListener(markerproperty7, 'click', function () {
         window.location = markerproperty7.url;	
@@ -87,7 +87,7 @@ function initMap() {
         position: property8,
         map: map,
         title: 'Property8',
-        url: "file:///C:/Users/roxan/Desktop/Scoala%20IT/II.%20JavaScript/Proiect%20final/DetailsSmartEstate.html?id=7"
+        url: "https://roxanasi.github.io/RoxanaSi-Proiect-Final-Smart-Estate/DetailsSmartEstate.html?id=7"
         });
         google.maps.event.addListener(markerproperty8, 'click', function () {
         window.location = markerproperty8.url;			
